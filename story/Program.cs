@@ -38,7 +38,6 @@ else if (behålla == "nej")
 
 
 
-
 string snurra = Console.ReadLine().ToLower();
 
 
